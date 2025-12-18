@@ -102,9 +102,9 @@ This approach helps detect consistent negative sentiment patterns at an early st
 ## Repository Structure
 Employee-Sentiment-Analysis/
 ├── data/
-│ └── test.csv
+ └── test.csv
 ├── notebooks/
-│ └── employee_sentiment_analysis.ipynb
+ └── employee_sentiment_analysis.ipynb
 ├── visualizations/
 └── README.md
 
